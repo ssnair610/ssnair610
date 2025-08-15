@@ -41,10 +41,8 @@ An automatic License Plate Recognition (ALPR) system utilizing computer vision a
 ### [MovieJunkie](https://github.com/ssnair610/MovieJunkie)
 A movie recommendation and exploration platform that leverages machine learning for personalized suggestions, with rich data visualizations and user-friendly search capabilities.
 
-## Publications
-
-### Data Address focused Implementation of Low Latency Secure Blockchain for EMRs
-2023 IEEE 3rd Mysore Sub Section International Conference
+**Publications**
+> Data Address focused Implementation of Low Latency Secure Blockchain for EMRs - 2023 IEEE 3rd Mysore Sub Section International Conference
 ---
 
 > 🌱 I’m always eager to learn new technologies and collaborate on impactful projects!  
