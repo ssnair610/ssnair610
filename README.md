@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🚀 **Skills:**  
 - Python, Java, C++, SQL  
-- AWS, GCP  
+- AWS, GCP, Docker  
 - PyTorch, Keras, Pandas, Plotly, Matplotlib, Scikit-learn  
 
 ---
@@ -40,6 +40,9 @@ An automatic License Plate Recognition (ALPR) system utilizing computer vision a
 
 ### [MovieJunkie](https://github.com/ssnair610/MovieJunkie)
 A movie recommendation and exploration platform that leverages machine learning for personalized suggestions, with rich data visualizations and user-friendly search capabilities.
+
+### {Oscilloscope](https://github.com/TusharShandilya/oscilloscope)
+Virtualization of Hameg HM-203 Oscilloscope into a web app. Developed using ReactJS and hosted on GCP with updates deployed using Docker.
 
 ---
 ## **Publications**
