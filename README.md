@@ -61,16 +61,17 @@ M.Sc. Computer Science at Philipps University Marburg
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssnair610&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssnair610&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile details and contributions" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most committed languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ssnair610&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssnair610&hide_border=true&area=true&theme=github-compact" alt="Contribution graph" />
 </p>
 
 ---
