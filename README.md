@@ -17,7 +17,10 @@ M.Sc. Computer Science at Philipps University Marburg
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Databases**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **ML & data**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -52,6 +55,23 @@ M.Sc. Computer Science at Philipps University Marburg
 **[Data Address focused Implementation of Low Latency Secure Blockchain for EMRs](https://ieeexplore.ieee.org/document/10397009)**
 *2023 IEEE 3rd Mysore Sub Section International Conference (MysuruCon)*
 [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Read_paper-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10397009)
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssnair610&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssnair610&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ssnair610&hide_border=true&theme=transparent" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssnair610&hide_border=true&area=true&theme=github-compact" alt="Contribution graph" />
+</p>
 
 ---
 
